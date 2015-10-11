@@ -31,3 +31,5 @@ with(electric,{
 dev.copy(png,file="plot4.png", width = 480, height=480)
 
 dev.off()
+
+## Please see this location for PLot 4: https://www.dropbox.com/s/gfrdx36rgph2b1i/plot4.png?dl=0
