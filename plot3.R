@@ -20,3 +20,5 @@ legend("topright",col=c("black","red","blue"),legend = c("Sub-metering_1","Sub_m
 dev.copy(png,file="plot3.png", width = 480, height=480)
 
 dev.off()
+
+## Please see this location for Plot 3: https://www.dropbox.com/s/hh6qdbn2419aetg/plot3.png?dl=0
