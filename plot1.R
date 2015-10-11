@@ -11,3 +11,5 @@ hist(electric$Global_active_power,col="red",xlab = "Global Active Power (kilowat
 dev.copy(png,file="plot1.png", width = 480, height=480)
 
 dev.off()
+
+##Please see this location for Plot 1: https://www.dropbox.com/s/c44fdvdz32ks3s6/plot1.png?dl=0
