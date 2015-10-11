@@ -17,3 +17,5 @@ plot(electric$datetime,electric$Global_active_power,xlab="",ylab="Global Active 
 dev.copy(png,file="plot2.png", width = 480, height=480)
 
 dev.off()
+
+## please see this location for Plot 2: https://www.dropbox.com/s/2ckcr4e5hz3rdgw/plot2.png?dl=0
